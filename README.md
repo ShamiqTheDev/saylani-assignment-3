@@ -1,2 +1,2 @@
 # saylani-assignment-3
-This is the clown of saylani home page
+This is the clone of saylani home page
