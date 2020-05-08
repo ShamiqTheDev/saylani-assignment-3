@@ -76,6 +76,7 @@ ul{
     position: sticky;
     top: 0px;
     left: 0px;
+    z-index: 1;
 }
 .header .logo{
    height: 58px;
@@ -193,6 +194,9 @@ ul{
     border-radius: 50%;
     position: absolute;
     background-color: #316DC3 !important;
+}
+.face-facebook a {
+    color: #fff;
 }
 .fab{
     color: #fff;
